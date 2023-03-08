@@ -1,4 +1,4 @@
-# python-api-challenge
+# Weather & Ideal Vacation Analysis with APIs
 This is an assignment that I completed for the George Washington University Data Analytics Bootcamp, focused on analysis and visualization in Python using Jupyter Notebook and displaying my understanding of using API's to create datasets and visuals.
 
 
