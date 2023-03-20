@@ -56,7 +56,8 @@ column.
 
 Then make sure the hotel name and the country are displayed as additional information in the hover message for each city in the
 map.
-
+![Fig2](https://user-images.githubusercontent.com/119632669/226223107-8f1ac875-b467-4655-99c3-809f310b1a86.png)
+![Fig1](https://user-images.githubusercontent.com/119632669/226223112-a0a1184c-4f2d-4af8-a112-42332e40661d.png)
 
 ## Insights
 In WeatherPy:
